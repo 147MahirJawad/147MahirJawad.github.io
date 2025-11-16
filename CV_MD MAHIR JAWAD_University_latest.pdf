@@ -1,0 +1,46 @@
+%PDF-1.4
+%PLACEHOLDER CV FILE
+% This is a placeholder PDF. Replace this file with the actual CV PDF.
+% The actual CV should be named: CV_MD MAHIR JAWAD_University_latest.pdf
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >>
+endobj
+5 0 obj
+<< /Length 200 >>
+stream
+BT
+/F1 24 Tf
+100 700 Td
+(PLACEHOLDER CV) Tj
+0 -50 Td
+/F1 12 Tf
+(Please replace this file with the actual CV PDF:) Tj
+0 -20 Td
+(CV_MD MAHIR JAWAD_University_latest.pdf) Tj
+0 -40 Td
+(The website will use this CV for the Download CV button.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000068 00000 n 
+0000000125 00000 n 
+0000000229 00000 n 
+0000000328 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+579
+%%EOF

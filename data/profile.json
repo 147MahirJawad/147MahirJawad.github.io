@@ -1,0 +1,86 @@
+{
+  "name": "MD Mahir Jawad",
+  "headline": "Researcher & Software Engineer",
+  "email": "mahirjawad98@gmail.com",
+  "location": "",
+  "summary": "Passionate researcher and software engineer with expertise in computer science and engineering. Dedicated to advancing knowledge through innovative research and practical application.",
+  "education": [
+    {
+      "institution": "TODO: Extract from CV PDF",
+      "degree": "",
+      "field": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "gpa": "",
+      "highlights": []
+    }
+  ],
+  "experience": [
+    {
+      "title": "TODO: Extract from CV PDF",
+      "org": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "highlights": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "TODO: Extract from CV PDF",
+      "link": "",
+      "description": "",
+      "tech": [],
+      "start": "",
+      "end": ""
+    }
+  ],
+  "skills": {
+    "technical": [
+      "TODO: Extract from CV PDF"
+    ],
+    "soft": [
+      "TODO: Extract from CV PDF"
+    ]
+  },
+  "publications": [
+    {
+      "title": "TODO: Extract from CV PDF",
+      "venue": "",
+      "year": "",
+      "link": "https://hal.science/hal-05068203v1/document",
+      "authors": [],
+      "doi": ""
+    }
+  ],
+  "awards": [
+    {
+      "name": "TODO: Extract from CV PDF",
+      "by": "",
+      "year": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TODO: Extract from CV PDF",
+      "by": "",
+      "year": "",
+      "link": "",
+      "description": ""
+    }
+  ],
+  "languages": [
+    {
+      "name": "TODO: Extract from CV PDF",
+      "level": ""
+    }
+  ],
+  "links": {
+    "github": "https://github.com/147MahirJawad",
+    "linkedin": "",
+    "scholar": "",
+    "website": "https://147MahirJawad.github.io"
+  }
+}
