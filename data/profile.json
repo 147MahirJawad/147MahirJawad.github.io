@@ -1,0 +1,205 @@
+{
+  "name": "MD Mahir Jawad",
+  "headline": "Machine Learning Engineer & Researcher",
+  "email": "mahirjawad98@gmail.com",
+  "location": "Chattogram, Bangladesh",
+  "summary": "Talented and diligent Machine Learning Engineer with expertise in Deep Learning, NLP, LLMs, and Quantum Computing. Capable of handling multiple tasks and managing pressure effectively. Strong ability to build relationships and lead technical projects. Published researcher with focus on Bengali language processing and quantum machine learning.",
+  "education": [
+    {
+      "institution": "BRAC University",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science and Engineering",
+      "start": "2020-01",
+      "end": "2024-10",
+      "location": "Dhaka, Bangladesh",
+      "gpa": "3.09/4.00",
+      "highlights": []
+    },
+    {
+      "institution": "Cantonment English School & College",
+      "degree": "Higher Secondary School Certificate",
+      "field": "",
+      "start": "",
+      "end": "",
+      "location": "Chattogram, Bangladesh",
+      "gpa": "5.00/5.00",
+      "highlights": []
+    }
+  ],
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "org": "Penta Global Ltd",
+      "start": "2025-08",
+      "end": "Present",
+      "location": "",
+      "highlights": [
+        "Full-Time Role",
+        "Project Lead: BIM Model Automation Project (Scaffolding & CAD to 3D)"
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer (Intern)",
+      "org": "Penta Global Ltd",
+      "start": "2025-05",
+      "end": "2025-07",
+      "location": "",
+      "highlights": [
+        "Deep understanding of LLM, RAG, NLP, and MCP",
+        "Created multiple projects in all fields"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "BIM Model Automation Project",
+      "link": "",
+      "description": "Scaffolding & CAD to 3D automation using machine learning",
+      "tech": ["Machine Learning", "BIM", "CAD", "3D Modeling"],
+      "start": "2025-08",
+      "end": "Present"
+    },
+    {
+      "name": "University Thesis - Space Telescope Image Analysis",
+      "link": "",
+      "description": "Image Processing and Deep Learning for Space Telescope Images: An Exploratory Data Analysis Approach",
+      "tech": ["Deep Learning", "Image Processing", "Data Analysis"],
+      "start": "",
+      "end": "2024-10"
+    },
+    {
+      "name": "Kobita - Bengali Poetry Understanding",
+      "link": "",
+      "description": "Research into LLMs' understanding of Bengali Poetry and Rhymes",
+      "tech": ["LLM", "NLP", "Bengali Language Processing"],
+      "start": "2025",
+      "end": "Ongoing"
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Python",
+      "Java",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Large Language Models",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "Quantum Computing",
+      "AWS (EC2)",
+      "Docker",
+      "Git",
+      "Visual Studio",
+      "Android Studio",
+      "Revit",
+      "AutoCAD"
+    ],
+    "soft": [
+      "Leadership",
+      "Communication",
+      "Cross-team Collaboration",
+      "Problem Solving",
+      "Relationship Building",
+      "Multitasking",
+      "Pressure Management"
+    ]
+  },
+  "publications": [
+    {
+      "title": "Exploring Large Language Model and Machine Learning Models for Sentiment Analysis of Bengali Natok Reviews",
+      "venue": "ICECET 2025",
+      "year": "2025",
+      "link": "",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Enhancing Fundamental Reasoning with Reinforcement Learning: A Theoretical Framework for Reinforcement-Guided Reasoning (RGR)",
+      "venue": "ICCIT 2025 (Under Review)",
+      "year": "2025",
+      "link": "",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Quantum Hamiltonian-Informed Neural Tangent Kernel: A Framework for Enhanced Generalization in Quantum Machine Learning",
+      "venue": "ICCIT 2025 (Under Review)",
+      "year": "2025",
+      "link": "",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Benchmarking Large Language Models on Bangla Dialect Translation and Dialectal Sentiment Analysis",
+      "venue": "IJCNLP-AACL Workshop, BLP 2025",
+      "year": "2025",
+      "link": "",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Linear Probing of Pre-trained Transformer based Models for Bangla Hate Speech Detection",
+      "venue": "IJCNLP-AACL Workshop, BLP 2025",
+      "year": "2025",
+      "link": "",
+      "authors": [],
+      "doi": ""
+    }
+  ],
+  "awards": [
+    {
+      "name": "National Earth Olympiad - Ranked 22nd Divisional",
+      "by": "National Earth Olympiad",
+      "year": "2015",
+      "description": "Achieved 22nd rank in divisional competition"
+    },
+    {
+      "name": "Sergeant - Bangladesh National Cadet Corps (BNCC)",
+      "by": "BNCC",
+      "year": "2014-2018",
+      "description": "Served as Sergeant in Bangladesh National Cadet Corps"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "IBM SkillBuild Course - Quantum Enigma",
+      "by": "IBM",
+      "year": "2025",
+      "link": "",
+      "description": "Ongoing quantum computing certification program"
+    },
+    {
+      "name": "International English Language Testing System (IELTS)",
+      "by": "IELTS",
+      "year": "2024",
+      "link": "",
+      "description": "Overall: 7.5 | Listening: 8.0 | Reading: 7.5 | Writing: 7.5 | Speaking: 7.0"
+    },
+    {
+      "name": "Graduate Record Examination (GRE)",
+      "by": "ETS",
+      "year": "2025",
+      "link": "",
+      "description": "Total: 302 | Quantitative: 155 | Verbal: 147 | Analytical: 4.0"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Bengali",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Fluent Working Proficiency"
+    }
+  ],
+  "links": {
+    "github": "https://github.com/147MahirJawad",
+    "linkedin": "",
+    "scholar": "",
+    "website": "https://147MahirJawad.github.io"
+  }
+}

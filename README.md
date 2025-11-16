@@ -1,4 +1,38 @@
-# Academic Pages
+# MD Mahir Jawad - Personal Website
+
+🌐 **Live Site**: [https://147MahirJawad.github.io](https://147MahirJawad.github.io)
+
+## About This Site
+
+This repository hosts a clean, modern personal website built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no build process - just fast-loading, accessible web standards.
+
+### Features
+
+- ✨ **Modern, Responsive Design**: Works beautifully on desktop, tablet, and mobile
+- 🌓 **Light/Dark Theme Toggle**: Persistent theme preference
+- ♿ **Accessibility First**: ARIA labels, semantic HTML, keyboard navigation
+- 📊 **Data-Driven**: All content loaded from `data/profile.json`
+- 🎨 **No Dependencies**: Pure HTML/CSS/JavaScript
+- 🖨️ **Print-Friendly**: Special print stylesheet for resume-like output
+- 🚀 **Fast Loading**: ~52KB total, optimized for performance
+
+### Quick Start
+
+To update the website content:
+
+1. Edit `data/profile.json` with your information
+2. Replace `assets/profile.jpg` with your photo
+3. Replace `CV_MD MAHIR JAWAD_University_latest.pdf` with your CV
+4. Push changes - GitHub Pages will automatically deploy
+
+📖 **Full documentation**: See [README_WEBSITE.md](README_WEBSITE.md) for detailed instructions.
+
+---
+
+# Academic Pages (Original Template)
+
+**Note**: The sections below document the original Academic Pages template that this repository was based on. The current website uses a custom implementation instead.
+
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
