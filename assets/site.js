@@ -454,8 +454,19 @@ function renderSocialLinks(links) {
   if (links.scholar) {
     socialLinks.push({ name: 'Google Scholar', icon: '🎓', url: links.scholar });
   }
-  if (links.website && !links.website.includes('github.io')) {
-    socialLinks.push({ name: 'Website', icon: '🌐', url: links.website });
+  // Only show website link if it's not the current site (github.io pages)
+  if (links.website) {
+    try {
+      const websiteUrl = new URL(links.website);
+      const currentUrl = new URL(window.location.href);
+      // Compare hostnames to avoid showing link to current site
+      if (websiteUrl.hostname !== currentUrl.hostname) {
+        socialLinks.push({ name: 'Website', icon: '🌐', url: links.website });
+      }
+    } catch (e) {
+      // If URL parsing fails, skip this link
+      console.warn('Invalid website URL:', links.website);
+    }
   }
 
   if (socialLinks.length === 0) return;
