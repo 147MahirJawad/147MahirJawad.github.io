@@ -164,9 +164,14 @@ async function loadProfileData() {
  */
 function renderProfile(data) {
   // Update hero section
-  document.getElementById('profile-name').textContent = data.name || 'Name Not Available';
-  document.getElementById('profile-headline').textContent = data.headline || '';
-  document.getElementById('profile-location').textContent = data.location || '';
+  const profileName = document.getElementById('profile-name');
+  if (profileName) profileName.textContent = data.name || 'Name Not Available';
+  
+  const profileHeadline = document.getElementById('profile-headline');
+  if (profileHeadline) profileHeadline.textContent = data.headline || '';
+  
+  const profileLocation = document.getElementById('profile-location');
+  if (profileLocation) profileLocation.textContent = data.location || '';
   
   // Update email
   const emailElement = document.getElementById('email-address');
